@@ -1,0 +1,21 @@
+const Map<String, String> ar = {
+  'First Name': 'الاسم الاول',
+  'Last Name': 'الاسم الاخير',
+  '*Required': '*مطلوب',
+  'Email': 'البريد الالكتروني',
+  'Phone': 'رقم الهاتف',
+  'Password': 'كلمة السر',
+  'Upload image': 'تحميل صوره',
+  'Register': 'تسجبل',
+  'Sign Up': 'انشاء حساب جديد',
+  'Sign In': 'تسجيل دخول',
+  'Login': 'تسجيل دخول',
+  'Forget Password': 'نسيت كلمة السر',
+  'Create Account': 'إنشاء حساب',
+  'Register as': 'تسجيل باسم',
+  'User': 'مستخدم',
+  'Organizer': 'منظم',
+  'Sign In as': 'تسجيل دخول باسم',
+  'Admin': 'مشرف',
+  'Newest Events': 'أحدث الأحداث'
+};
